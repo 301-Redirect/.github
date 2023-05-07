@@ -13,7 +13,7 @@
   <br />
   <a href="https://github.com/301-Redirect/.github/issues/new">Report a Bug</a>
   ·
-  <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  <a href="https://github.com/301-Redirect/.github/issues/new">Request a Feature</a>
   .
   <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
 </div>

@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  PROJECT_NAME
+  301 Redirect
   <br />
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />

@@ -2,6 +2,7 @@
   <a href="https://github.com/301-Redirect">
     <!-- Please provide path to your logo here -->
     <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+    <br/>
     301 Redirect
   </a>
 </h1>

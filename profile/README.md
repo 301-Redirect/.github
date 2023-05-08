@@ -37,7 +37,6 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
-  - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -58,11 +57,8 @@
 ## About
 
 > **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+> Our organisation helps empower future generations with knowledge of IOT and promotes their ideas through our organisation.
+> We intend to nuture and foster the right side of the human brain in children, which control creativity and imagination.
 
 <details>
 <summary>Screenshots</summary>
@@ -76,11 +72,6 @@
 | <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
 
 </details>
-
-### Built With
-
-> **[?]**
-> Please provide the technologies that are used in the project.
 
 ## Getting Started
 

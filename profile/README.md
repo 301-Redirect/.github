@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  301 Redirect
+  <h2>301 Redirect</h2>
   <br />
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />

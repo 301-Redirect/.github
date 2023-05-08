@@ -37,14 +37,11 @@
 <summary>Table of Contents</summary>
 
 - [About Us](#about-us)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [What do we do?](#what-do-we-do)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Support](#support)
 - [Project assistance](#project-assistance)
-- [Contributing](#contributing)
 - [Authors & contributors](#authors--contributors)
 - [Security](#security)
 - [License](#license)
@@ -54,7 +51,7 @@
 
 ---
 
-## About Us
+## About us
 
 > Our organisation helps empower future generations with knowledge of IOT and promotes their ideas through our organisation.
 > We intend to nuture and foster the right side of the human brain in children, which control creativity and imagination.
@@ -72,17 +69,10 @@
 
 </details>
 
-## Getting Started
+## What do we do
 
-### Prerequisites
+> We teach children how to code for web development to give them the tools to foster their creativity.
 
-> **[?]**
-> What are the project requirements/dependencies?
-
-### Installation
-
-> **[?]**
-> Describe how to install and get started with the project.
 
 ## Usage
 
@@ -110,20 +100,13 @@ Reach out to the maintainer at one of the following places:
 
 ## Project assistance
 
-If you want to say **thank you** or/and support active development of PROJECT_NAME:
+If you want to say **thank you** or/and support active development of 301 Redirect:
 
-- Add a [GitHub Star](https://github.com/GITHUB_USERNAME/REPO_SLUG) to the project.
-- Tweet about the PROJECT_NAME.
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
+- [Follow](https://github.com/301-redirect) our organisation.
+- Share about 301 Redirect on social media.
 
-Together, we can make PROJECT_NAME **better**!
+Together, we can make 301 Redirect **better**!
 
-## Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-
-Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
 ## Authors & contributors
 

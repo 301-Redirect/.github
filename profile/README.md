@@ -24,7 +24,7 @@
 [![Project license](https://img.shields.io/github/license/GITHUB_USERNAME/REPO_SLUG.svg?style=flat-square)](LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/301-Redirect/.github/issues)
-[![An organisation made with hearth by Sasutski](https://img.shields.io/badge/An%20organisation%20made%20with%20%E2%99%A5%20byby-Sasutski-ff1414.svg?style=flat-square)](https://github.com/Sasutski)
+[![An organisation made with hearth by Sasutski](https://img.shields.io/badge/An%20organisation%20made%20with%20%E2%99%A5%20by-Sasutski-ff1414.svg?style=flat-square)](https://github.com/Sasutski)
 
 
 </div>

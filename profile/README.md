@@ -36,7 +36,7 @@
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [About](#about)
+- [About Us](#about-us)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -54,7 +54,7 @@
 
 ---
 
-## About
+## About Us
 
 > Our organisation helps empower future generations with knowledge of IOT and promotes their ideas through our organisation.
 > We intend to nuture and foster the right side of the human brain in children, which control creativity and imagination.

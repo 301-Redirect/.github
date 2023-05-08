@@ -56,7 +56,6 @@
 
 ## About
 
-> **[?]**
 > Our organisation helps empower future generations with knowledge of IOT and promotes their ideas through our organisation.
 > We intend to nuture and foster the right side of the human brain in children, which control creativity and imagination.
 

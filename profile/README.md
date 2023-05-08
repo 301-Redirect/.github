@@ -1,12 +1,12 @@
 <h1 align="center">
-  <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG">
+  <a href="https://github.com/301-Redirect">
     <!-- Please provide path to your logo here -->
     <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+    301 Redirect
   </a>
 </h1>
 
 <div align="center">
-  <h2>301 Redirect</h2>
   <br />
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />

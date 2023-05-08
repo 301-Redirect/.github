@@ -110,9 +110,9 @@ Together, we can make 301 Redirect **better**!
 
 ## Authors & contributors
 
-The original setup of this repository is by [FULL_NAME](https://github.com/GITHUB_USERNAME).
+The original setup of this organisation is by [Sasutski](https://github.com/sasutski).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/GITHUB_USERNAME/REPO_SLUG/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/301-redirect/.github/contributors).
 
 ## Security
 

@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/301-Redirect">
     <!-- Please provide path to your logo here -->
-    <img src=".github/favicon.jpeg" alt="Logo" width="100" height="100">
+    <img src="profile/favicon.jpeg" alt="Logo" width="100" height="100">
     <br/>
     
   </a>
@@ -24,8 +24,9 @@
 
 <div align="center">
 <br />
+[![license](https://img.shields.io/github/license/301-redirect/.github.svg?style=flat-square)](LICENSE)
 
-[![LICENSE](https://img.shields.io/badge/License%20Apache-ff1414.svg?style=flat-square)](https://github.com/301-Redirect/.github/blob/main/LICENSE)
+
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/301-Redirect/.github/issues)
 [![An organisation made with hearth by Sasutski](https://img.shields.io/badge/An%20organisation%20made%20with%20%E2%99%A5%20by-Sasutski-ff1414.svg?style=flat-square)](https://github.com/Sasutski)

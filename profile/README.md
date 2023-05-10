@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/301-Redirect">
-    <!-- Please provide path to your logo here -->
-    <img src=".github/profile/favicon.jpeg" alt="Logo" width="100" height="100">
+    <img src="favicon.jpeg" alt="Logo" width="100" height="100">
     <br/>
     
   </a>

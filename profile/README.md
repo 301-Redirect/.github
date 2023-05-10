@@ -1,52 +1,16 @@
-<h1 align="center">
-  <a href="https://github.com/301-Redirect">
-    <img src="favicon.jpeg" alt="Logo" width="100" height="100">
-    <br/>
-    
-  </a>
-  <a>
-  301 Redirect
-  </a>
-</h1>
+[![Logo](favicon.jpeg)  
+](https://github.com/301-Redirect)301 Redirect
+=======================================================================
 
-<div align="center">
-  <br />
-  <a href="#about"><strong>Explore the screenshots »</strong></a>
-  <br />
-  <br />
-  <a href="https://github.com/301-Redirect/.github/issues/new">Report a Bug</a>
-  ·
-  <a href="https://github.com/301-Redirect/.github/issues/new">Request a Feature</a>
-  .
-  <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
-</div>
+  
+[**Explore the screenshots »**](#about)  
+  
+[Report a Bug](https://github.com/301-Redirect/.github/issues/new) · [Request a Feature](https://github.com/301-Redirect/.github/issues/new) . [Ask a Question](https://github.com/GITHUB_USERNAME/REPO_SLUG/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 
-<div align="center">
-<br />
+  
+\[!\[LICENSE\](https://img.shields.io/badge/License%20Apache-ff1414.svg?style=flat-square)\](https://github.com/301-Redirect/.github/blob/main/LICENSE) \[!\[Pull Requests welcome\](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)\](https://github.com/301-Redirect/.github/issues) \[!\[An organisation made with hearth by Sasutski\](https://img.shields.io/badge/An%20organisation%20made%20with%20%E2%99%A5%20by-Sasutski-ff1414.svg?style=flat-square)\](https://github.com/Sasutski)
 
-[![LICENSE](https://img.shields.io/badge/License%20Apache-ff1414.svg?style=flat-square)](https://github.com/301-Redirect/.github/blob/main/LICENSE)
-
-[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/301-Redirect/.github/issues)
-[![An organisation made with hearth by Sasutski](https://img.shields.io/badge/An%20organisation%20made%20with%20%E2%99%A5%20by-Sasutski-ff1414.svg?style=flat-square)](https://github.com/Sasutski)
-
-
-</div>
-
-<details open="open">
-<summary>Table of Contents</summary>
-
-- [About Us](#about-us)
-- [What do we do?](#what-do-we-do)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Project assistance](#project-assistance)
-- [Authors & contributors](#authors--contributors)
-- [Security](#security)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
-</details>
+Table of Contents - \[About Us\](#about-us) - \[What do we do?\](#what-do-we-do) - \[Usage\](#usage) - \[Roadmap\](#roadmap) - \[Support\](#support) - \[Project assistance\](#project-assistance) - \[Authors & contributors\](#authors--contributors) - \[Security\](#security) - \[License\](#license) - \[Acknowledgements\](#acknowledgements)
 
 ---
 

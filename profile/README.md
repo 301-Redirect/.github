@@ -1,5 +1,5 @@
-[![Logo](favicon.jpeg)  
-](https://github.com/301-Redirect)301 Redirect
+[![Logo](favicon.jpeg)
+[301 Redirect](https://github.com/301-Redirect)
 =======================================================================
 
   

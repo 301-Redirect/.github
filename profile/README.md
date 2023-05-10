@@ -12,9 +12,8 @@
 
   
 [![LICENSE](https://img.shields.io/badge/License%20Apache-ff1414.svg?style=flat-square)](https://github.com/301-Redirect/.github/blob/main/LICENSE)
-[![Pull Requests welcome\](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/301-Redirect/.github/issues)
-[![An organisation made with hearth by Sasutski\]\](https://github.com/Sasutski)
-![](https://img.shields.io/badge/An%20organisation%20made%20with%20%E2%99%A5%20by-Sasutski-ff1414.svg?style=flat-square)
+[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/301-Redirect/.github/issues)
+![An organisation made with hearth by [Sasutski](https://github.com/Sasutski)](https://img.shields.io/badge/An%20organisation%20made%20with%20%E2%99%A5%20by-Sasutski-ff1414.svg?style=flat-square)
 
 Table of Contents - \[About Us\](#about-us) - \[What do we do?\](#what-do-we-do) - \[Usage\](#usage) - \[Roadmap\](#roadmap) - \[Support\](#support) - \[Project assistance\](#project-assistance) - \[Authors & contributors\](#authors--contributors) - \[Security\](#security) - \[License\](#license) - \[Acknowledgements\](#acknowledgements)
 

@@ -1,4 +1,4 @@
-![Logo](profile/favicon.jpeg)
+![Logo](favicon.png)
 
 [301 Redirect](https://github.com/301-Redirect)
 =======================================================================
